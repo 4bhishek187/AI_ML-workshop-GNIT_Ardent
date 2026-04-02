@@ -100,9 +100,9 @@ python main.py
 
 ## 👨‍💻 Author
 
-**SK Sahil**
-B.Sc. Computer Science — IU International University of Applied Sciences
-Freelance Coding Tutor | Python · Java · JavaScript
+**Abhishek Chakraborty**
+Btech - ECE— Gurunanak Institute Of Technology
+Freelance Graphic designer | Python · Java · JavaScript
 
 > 📧 Connect on [LinkedIn](https://linkedin.com) · [GitHub](https://github.com/your-username)
 
